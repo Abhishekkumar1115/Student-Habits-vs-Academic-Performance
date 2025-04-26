@@ -1,1 +1,4 @@
-
+# Data Set for analyzing the relationship between students' habits and academic performance.
+# load csv file in the given location of code .
+# import various libraries .
+# if showing error then wirte (pip install name_of_library)
